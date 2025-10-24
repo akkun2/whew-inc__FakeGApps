@@ -1,0 +1,1 @@
+Signature spoofing for MicroG as an Xposed module
